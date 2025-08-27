@@ -13,7 +13,7 @@ Aprendí a programar con Java para la optimizar la lógica y el desarrollo orien
 
 Mi pasatiempo favorito es resolver bugs un viernes a las 15:00, sin haber comido y estando en modo zombi
 
-<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/qa-meme.gif" alt="qa" width="110" height="100">
+<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/qa-meme.gif" alt="qa" width="180" height="170">
 
 ## 💼 Experiencia Laboral (Solo el código que cuenta)
 - **Desarrollador de aplicaciones web en Codebit Systems, S.L.** (Santiago de Compostela, España)  
