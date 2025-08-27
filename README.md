@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alejandro Rodríguez Gómez, y te prometo que si lo puedes imaginar, te lo puedo programar. <img src="https://raw.githubusercontent.com/AlejandroRG27/AlejandroRG27/main/images/supersaiyansongoku-saiyan-super.gif" alt="dog-cool" width="427" height="133" style="display: block; margin: 0 auto;">
+# 👋 ¡Hola Mundo! Soy Alejandro Rodríguez Gómez, y te prometo que si lo puedes imaginar, te lo puedo programar. <img src="https://raw.githubusercontent.com/AlejandroRG27/AlejandroRG27/main/images/supersaiyansongoku-saiyan-super.gif" alt="dog-cool" width="427" height="133" style="display: block; margin: 0 auto;">
 
 Soy desarrollador de aplicaciones web y APIs con Python, Django y FastAPI. Tengo skills sólidos en bases de datos relacionales como PostgreSQL, MySQL y SQL Server – sí, esas en las que todos hemos hecho un DELETE FROM users; para ver si es verdad que funciona. <img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/cat-orange-cat.gif" alt="car-oranfe" width="50" height="40"><br>
 
@@ -10,6 +10,10 @@ Empecé en el mundo de la informática como soporte técncico pero, di el salto 
 Aprendí a programar con Java para la optimizar la lógica y el desarrollo orientado a objetos, luego pasé por PHP para las aplicaciones webs pero sin duda me quedo con python.
 
 <img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/java-python.gif" alt="python-java" width="340" height="94">
+
+Mi pasatiempo favorito es resolver bugs un viernes a las 15:00, sin haber comido y estando en modo zombi
+
+<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/qa-meme.gif" alt="qa" width="70" height="60">
 
 ## 💼 Experiencia Laboral (Solo el código que cuenta)
 - **Desarrollador de aplicaciones web en Codebit Systems, S.L.** (Santiago de Compostela, España)  
