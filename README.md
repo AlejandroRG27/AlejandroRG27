@@ -19,8 +19,8 @@ Mi pasatiempo favorito es resolver bugs un viernes a las 15:00, sin haber comido
 - **Desarrollador de aplicaciones web en Codebit Systems, S.L.** (Santiago de Compostela, España)  
   Desde abril de 2024 – Actual  
   Aquí es donde Python y yo somos inseparables<p>  </p>  <img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/python-python-my-belothed.gif" alt="python" width="50" height="50">
-  - Desarrollo de apps web con Django (mi framework preferido, para que vas a reinnvetar la rueda?).  
-  - APIs REST con Django y FastAPI, incluyendo async functions que corren más rápido que un while True.  
+  - Desarrollo de apps web con Django (mi framework preferido, para que vas a reinventar la rueda?).  
+  - APIs REST con Django y FastAPI, incluyendo async functions que corren más rápido que un while True.
   - Integración con PostgreSQL y MySQL.  
   - Docker y Kubernetes para contenedores.  
   - Automatización de deploys y setup de servers.  
