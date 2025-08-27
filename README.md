@@ -1,8 +1,7 @@
 # 👋 ¡Hola! Soy Alejandro Rodríguez Gómez, y te prometo que si lo puedes imaginar, te lo puedo programar.
 
-<div class="tenor-gif-embed" data-postid="15836629059146245846" data-share-method="host" data-aspect-ratio="0.666667" data-width="100%"><a href="https://tenor.com/view/banana-cat-cat-banana-banana-cat-meme-cat-gif-15836629059146245846">Banana Cat Cat Banana Sticker</a>from <a href="https://tenor.com/search/banana+cat-stickers">Banana Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-Soy un desarrollador de software con 1.5 años de experiencia creando aplicaciones web y APIs con Python, Django y FastAPI. Tengo skills sólidos en bases de datos relacionales como PostgreSQL, MySQL y SQL Server – sí, esas que a veces te hacen un "SELECT * FROM users" accidental y expones todo (¡pero yo uso ORM para evitarlo!). En frontend, manejo HTML, CSS y JavaScript, y estoy aprendiendo Vue.js para no quedarme en un "print('Hola Mundo')" eterno.
+![Screenshot de SmoothySEO](https://tenor.com/es/view/banana-cat-cat-banana-banana-cat-meme-cat-gif-15836629059146245846)
+Soy un desarrollador de aplicaciones web y APIs con Python, Django y FastAPI. Tengo skills sólidos en bases de datos relacionales como PostgreSQL, MySQL y SQL Server – sí, esas que a veces te hacen un "SELECT * FROM users" accidental y expones todo (¡pero yo uso ORM para evitarlo!). En frontend, manejo HTML, CSS y JavaScript, y estoy aprendiendo Vue.js para no quedarme en un "print('Hola Mundo')" eterno.
 
 Me apasiona el desarrollo de soluciones escalables, limpias y mantenibles. Empecé resetando servidores como técnico de soporte, pero ahora reseteo el código con un buen refactor. ¡Busco teams donde el código no sea un spaghetti y los deploys no fallen como un try sin except!
 
