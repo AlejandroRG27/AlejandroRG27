@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro Rodríguez Gómez, y te prometo que si lo puedes imaginar, te lo puedo programar.
 
-![Screenshot de SmoothySEO](https://tenor.com/es/view/banana-cat-cat-banana-banana-cat-meme-cat-gif-15836629059146245846)
+![Screenshot de SmoothySEO](https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/smoothlyseo-screenshot.png)
 Soy un desarrollador de aplicaciones web y APIs con Python, Django y FastAPI. Tengo skills sólidos en bases de datos relacionales como PostgreSQL, MySQL y SQL Server – sí, esas que a veces te hacen un "SELECT * FROM users" accidental y expones todo (¡pero yo uso ORM para evitarlo!). En frontend, manejo HTML, CSS y JavaScript, y estoy aprendiendo Vue.js para no quedarme en un "print('Hola Mundo')" eterno.
 
 Me apasiona el desarrollo de soluciones escalables, limpias y mantenibles. Empecé resetando servidores como técnico de soporte, pero ahora reseteo el código con un buen refactor. ¡Busco teams donde el código no sea un spaghetti y los deploys no fallen como un try sin except!
@@ -39,7 +39,7 @@ Me apasiona el desarrollo de soluciones escalables, limpias y mantenibles. Empec
 - **Tech Stack**: Django, Python, PostgreSQL, Docker, IA con DeepSeek, Stripe para pagos (¡sin bugs en transacciones!).  
 - **Features**: Análisis SEO con keywords, optimización de speed, accesibilidad auto, planes desde free hasta PRO (5-20€/mes – más barato que un VPS que se cae).
 
-![Screenshot de SmoothySEO](https://via.placeholder.com/800x400?text=Screenshot+de+SmoothySEO) <!-- Sube un screenshot real, ¡no un placeholder o te dará 404 como un import fallido! -->
+![Screenshot de SmoothySEO](https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/smoothlyseo-screenshot.png)- Sube un screenshot real, ¡no un placeholder o te dará 404 como un import fallido! -->
 
 ¿Por qué estrella? Porque integra IA con código clean – ¡y ayuda a webs a rankear sin un "IndexError" en el SEO!
 
