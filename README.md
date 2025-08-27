@@ -4,12 +4,12 @@ Soy desarrollador de aplicaciones web y APIs con Python, Django y FastAPI. Tengo
 
 En frontend, manejo HTML, CSS y JavaScript, y estoy aprendiendo Vue.js para no quedarme en un "print('Hola Mundo')" eterno.
 
-Empecé en el mundo de la informática como soporte técncico pero, di el salto al mundo de la programación para poder llevar a la pantalla lo veía en mi cabeza. <img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/cat-cat-meme.gif" alt="car-oranfe" width="50" height="40"><br>
+Empecé en el mundo de la informática como soporte técncico pero, di el salto al mundo de la programación para poder llevar a la pantalla lo veía en mi cabeza. <img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/cat-cat-meme.gif" alt="car-meme" width="50" height="40"><br>
 
 ## 💼 Experiencia Laboral (Solo el código que cuenta)
-- **Desarrollador de Software en Codebit Systems, S.L.** (Santiago de Compostela, España)  
+- **Desarrollador de aplicaciones web en Codebit Systems, S.L.** (Santiago de Compostela, España)  
   Desde abril de 2024 – Actual  
-  Aquí es donde Python y yo somos inseparables:  
+  Aquí es donde Python y yo somos inseparables:  <img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/python-python-my-belothed.gif" alt="python" width="50" height="50">
   - Desarrollo de apps web con Django (¡mi framework favorito, porque ¿quién necesita tabs cuando la indentación manda?).  
   - APIs REST con Django y FastAPI, incluyendo async functions que corren más rápido que un loop infinito mal hecho.  
   - Integración con PostgreSQL y MySQL, optimizando queries para que no hagan un "DELETE FROM tabla" sin WHERE (¡ups, datos perdidos!).  
