@@ -48,7 +48,7 @@ Aprendí a programar con Java para la optimizar la lógica y el desarrollo orien
 ![Screenshot de SmoothySEO](https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/smoothlyseo-screenshot.png)
 
 ¿Por qué estrella? Porque integra IA para mensajes personalizados de optimización web con código clean – ¡y ayuda a webs a rankear sin un "IndexError" en el SEO!
-<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/banana-cat-cat-banana.gif" alt="banana" width="340" height="94">
+<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/banana-cat-cat-banana.gif" alt="banana" width="50" height="40">
 
 ## 📊 GitHub Stats (¡Midiendo mi commit-ividad!)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroRG27&show_icons=true&theme=radical)  
@@ -58,6 +58,6 @@ Aprendí a programar con Java para la optimizar la lógica y el desarrollo orien
 - **Email**: [alejandro.rodriguez1900@gmail.com](mailto:alejandro.rodriguez1900@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/alejandro-rodríguez-gómez-](https://www.linkedin.com/in/alejandro-rodríguez-gómez-)  
 - **GitHub**: [github.com/AlejandroRG27](https://github.com/AlejandroRG27)  
-- **Teléfono**: (+34) 626076267 (para collabs o debug sessions).
+
 
 ¡Gracias por el scroll! Si te mola, starrea ⭐ – o contribuye, ¡pero sin pull requests que rompan el main! 🚀
