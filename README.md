@@ -6,16 +6,20 @@ En frontend, manejo HTML, CSS y JavaScript, y estoy aprendiendo Vue.js para no q
 
 Empecé en el mundo de la informática como soporte técncico pero, di el salto al mundo de la programación para poder llevar a la pantalla lo veía en mi cabeza. <img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/cat-cat-meme.gif" alt="car-meme" width="50" height="40"><br>
 
+Aprendí a programar con Java para la optimizar la lógica y el desarrollo orientado a objetos, luego pasé por PHP para las aplicaciones webs pero sin duda me quedo con python.
+
+<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/java-python.gif" alt="python-java" width="340" height="94">
+
 ## 💼 Experiencia Laboral (Solo el código que cuenta)
 - **Desarrollador de aplicaciones web en Codebit Systems, S.L.** (Santiago de Compostela, España)  
   Desde abril de 2024 – Actual  
-  Aquí es donde Python y yo somos inseparables:  <img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/python-python-my-belothed.gif" alt="python" width="50" height="50">
-  - Desarrollo de apps web con Django (¡mi framework favorito, porque ¿quién necesita tabs cuando la indentación manda?).  
-  - APIs REST con Django y FastAPI, incluyendo async functions que corren más rápido que un loop infinito mal hecho.  
-  - Integración con PostgreSQL y MySQL, optimizando queries para que no hagan un "DELETE FROM tabla" sin WHERE (¡ups, datos perdidos!).  
-  - Docker y Kubernetes para contenedores – porque virtualizar es como un virtualenv, pero para todo el app.  
+  Aquí es donde Python y yo somos inseparables<p>  </p>  <img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/python-python-my-belothed.gif" alt="python" width="50" height="50">
+  - Desarrollo de apps web con Django (mi framework preferido, para que vas a reinnvetar la rueda?).  
+  - APIs REST con Django y FastAPI, incluyendo async functions que corren más rápido que un while True.  
+  - Integración con PostgreSQL y MySQL.  
+  - Docker y Kubernetes para contenedores.  
   - Automatización de deploys y setup de servers.  
-  - Interfaces con HTML, CSS y JS, mientras domino Vue.js (pronto seré full-stack, sin stack overflows).
+  - Interfaces con HTML, CSS y JS, mientras domino Vue.js
 
 ## 🎓 Educación
 - **FP Dual en Desarrollo de Aplicaciones Web (DAW)**  
