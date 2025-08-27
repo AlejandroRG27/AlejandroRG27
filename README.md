@@ -9,11 +9,11 @@ Empecé en el mundo de la informática como soporte técncico pero, di el salto 
 
 Aprendí a programar con Java para la optimizar la lógica y el desarrollo orientado a objetos, luego pasé por PHP para las aplicaciones webs pero sin duda me quedo con python.
 
-<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/java-python.gif" alt="python-java" width="340" height="94">
+<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/V%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp.gif" alt="python-java" width="240" height="300">
 
 Mi pasatiempo favorito es resolver bugs un viernes a las 15:00, sin haber comido y estando en modo zombi
 
-<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/qa-meme.gif" alt="qa" width="70" height="60">
+<img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/qa-meme.gif" alt="qa" width="90" height="80">
 
 ## 💼 Experiencia Laboral (Solo el código que cuenta)
 - **Desarrollador de aplicaciones web en Codebit Systems, S.L.** (Santiago de Compostela, España)  
