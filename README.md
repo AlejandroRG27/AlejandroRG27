@@ -1,4 +1,6 @@
-# 👋 ¡Hola! Soy Alejandro Rodríguez Gómez, y te prometo que si lo puedes imaginar, te lo puedo programar. <p>                                             </p><img src="https://github.com/AlejandroRG27/AlejandroRG27/blob/main/images/supersaiyansongoku-saiyan-super.gif" alt="dog-cool" width="427" height="133">
+# 👋 ¡Hola! Soy Alejandro Rodríguez Gómez, y te prometo que si lo puedes imaginar, te lo puedo programar. <p>                                             </p><p align="center">
+  <img src="https://raw.githubusercontent.com/AlejandroRG27/AlejandroRG27/main/images/supersaiyansongoku-saiyan-super.gif" alt="dog-cool" width="427" height="133">
+</p>
 
 ![Gato banana bailando (para cuando tu código finalmente compila)]([https://media.tenor.com/[tu-url-directa].gif](https://media1.tenor.com/m/NUkFKD8W4kgAAAAd/banana-cat-cat-banana.gif))
 Soy un desarrollador de aplicaciones web y APIs con Python, Django y FastAPI. Tengo skills sólidos en bases de datos relacionales como PostgreSQL, MySQL y SQL Server – sí, esas que a veces te hacen un "SELECT * FROM users" accidental y expones todo (¡pero yo uso ORM para evitarlo!). En frontend, manejo HTML, CSS y JavaScript, y estoy aprendiendo Vue.js para no quedarme en un "print('Hola Mundo')" eterno.
